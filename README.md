@@ -10,5 +10,7 @@
 
 ![profile](https://github-profile-trophy.vercel.app/?username=Memorz&theme=algolia&column=8)
 
+![](https://raw.githubusercontent.com/Memorz/Memorz/main/assets/github-contribution-grid-snake.svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Memorz&bg_color=ffffff&color=9e4c98&line=ff0000&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
